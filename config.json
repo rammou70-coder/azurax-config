@@ -1,8 +1,8 @@
 {
   "serverUrl": "http://papi.queen-official.com:5030",
-  "maintenance": true,
-  "forceUpdate": false,
-  "versionCode": "2.0.2",
-  "apkUrl": "",
-  "updateMessage": "Server sedang maintenance, coba lagi nanti."
+  "maintenance": false,
+  "forceUpdate": true,
+  "versionCode": "2.0.3",
+  "apkUrl": "https://drive.google.com/uc?export=download&id=FILE_ID",
+  "updateMessage": "Update wajib ke v2.0.3. Ada perbaikan penting."
 }
