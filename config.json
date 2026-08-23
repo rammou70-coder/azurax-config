@@ -1,6 +1,8 @@
 {
   "serverUrl": "http://papi.queen-official.com:5030",
   "maintenance": false,
-  "forceUpdate": false,
-  "versionCode": "1.0.0"
+  "forceUpdate": true,
+  "versionCode": "2.0.3",
+  "apkUrl": "https://www.mediafire.com/file/ethkly7db6lt2aa/jwmboad_with_force_update.zip/file",
+  "updateMessage": "Update wajib ke v2.0.3. Ada perbaikan penting."
 }
